@@ -1,42 +1,54 @@
-# 👋 Hi, I'm Rhythm Sharma  
+# 👋 Hi, I'm Rhythm Sharma
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+🎓 B.Tech CSE student at **VIT Bhopal University**  
+🔐 Cybersecurity & Python enthusiast | Open-Source Contributor & Maintainer  
 
-🎓 A passionate **B.Tech student** driven by curiosity and creativity in **Python & C++ development**.  
-💡 I love solving problems, automating workflows, and contributing to impactful **open-source projects**.  
-🗣️ Strong communication skills combined with technical expertise help me collaborate and grow in diverse teams.  
+I build **beginner-friendly cybersecurity tools**, work with **Python-based detection systems**, and actively maintain open-source repositories designed to help students learn security concepts through real code.
 
 ---
 
 ## 🚀 Skills
-- **Languages:** Python, C++  
-- **Tools & Platforms:** Git, GitHub, Google Sheets, VS Code  
-- **Core Areas:** Data entry automation, algorithms, error detection codes (CRC, Hamming), computational physics basics  
+
+**Languages**  
+- Python  
+- C++
+
+**Cybersecurity & CS Fundamentals**  
+- Phishing & spam detection  
+- SOC log analysis  
+- Basic threat modeling  
+- Error detection codes (CRC, Hamming)
+
+**Tools & Platforms**  
+- Git & GitHub  
+- VS Code  
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Data Entry Automation** – Automated CSV processing and Google Sheets integration for streamlined workflows.  
-- 🔹 **C++ Algorithm Collection** – Implementations of fundamental algorithms with clean, modular code.  
-- 🔹 **Cybersecurity Basics** – Practice repository with exercises on CIA Triad, phishing, and cybercrime awareness.  
+
+🔹 **StegaSnoop**  
+Lightweight educational tool for detecting potential image steganography using LSB analysis, entropy, and pixel correlation.  
+**Role:** Project Maintainer (ACWOC)
+
+🔹 **SOC Log Anomaly Detector**  
+Beginner-friendly Python project for detecting suspicious patterns in SOC (Security Operations Center) logs using rule-based analysis.
+
+🔹 **Email & URL Security Tools**  
+Python utilities for phishing URL detection and email spam analysis using heuristic techniques.
 
 ---
 
-## 📊 GitHub Stats
-![Rhythm's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeby-rhythm-sharma&show_icons=true&theme=tokyonight)  
+## 🌱 Open Source Involvement
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-rhythm-sharma&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](#)  
-- 📧 [Email](#)  
-- 📝 [Portfolio/Blog (optional)](#)  
+- Maintainer for **Android Club Winter of Code (ACWOC)** projects  
+- Focus on beginner-friendly issues, documentation, and mentorship-ready repositories  
+- Actively improving project structure, README clarity, and contribution workflows  
 
 ---
 
-✨ *"Code with clarity, collaborate with purpose, and contribute with passion."*
+## 📫 Connect With Me
+- LinkedIn: *(add link)*  
+- Email: *(add professional email)*  
+
+> *“Build small, secure systems. Learn deeply. Contribute openly.”*
