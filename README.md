@@ -52,3 +52,6 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 - Email: *(add professional email)*  
 
 > *“Build small, secure systems. Learn deeply. Contribute openly.”*
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue)
+![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange)
