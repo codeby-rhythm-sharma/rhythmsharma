@@ -46,10 +46,30 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 - Actively improving project structure, README clarity, and contribution workflows  
 
 ---
+## 📊 GitHub Stats
+
+![Rhythm's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeby-rhythm-sharma&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-rhythm-sharma&layout=compact)
+
+## 🌱 Open Source Contributions
+
+- 🛡️ **SOC Log Anomaly Detector** — Maintainer  
+  - Designed beginner-friendly SOC log analysis tool  
+  - Reviewed and merged PRs under ACWOC  
+
+- 🕵️‍♂️ **StegaSnoop** — Project Maintainer  
+  - Python-based image steganography detection tool  
+  - Added documentation, examples, and contribution guidelines  
+
+- 🤝 **ACWOC Participant**  
+  - Mentoring and reviewing beginner contributions  
+  - Maintaining contribution quality and project structure
 
 ## 📫 Connect With Me
-- LinkedIn: *(add link)*  
-- Email: *(add professional email)*  
+- LinkedIn:https://www.linkedin.com/in/rhythm-sharma-b72625323
+- GitHub: https://github.com/codeby-rhythm-sharma
+- Email: rhythmm.sharma10@gmai.com 
 
 > *“Build small, secure systems. Learn deeply. Contribute openly.”*
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue)
