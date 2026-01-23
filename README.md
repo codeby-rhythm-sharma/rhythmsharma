@@ -65,6 +65,14 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 - 🤝 **ACWOC Participant**  
   - Mentoring and reviewing beginner contributions  
   - Maintaining contribution quality and project structure
+  
+## 🏅 Badges
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20Learner-red)
+![Maintainer](https://img.shields.io/badge/Role-Maintainer-purple)
+![ACWOC](https://img.shields.io/badge/ACWOC-2025-orange)
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/rhythm-sharma-b72625323
