@@ -83,7 +83,7 @@ This project is proud to be part of **DSC Winter of Code (DSCWoC)**.
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20Learner-red)
 ![Maintainer](https://img.shields.io/badge/Role-Maintainer-purple)
 ![ACWOC](https://img.shields.io/badge/ACWOC-2026-orange)
-![DSCWOC](https://img.shields.io/badge/DSCCWOC-2026-lightbrown)
+![DSCWOC](https://img.shields.io/badge/DSCWOC-2026-pink)
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/rhythm-sharma-b72625323
