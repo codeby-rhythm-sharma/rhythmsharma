@@ -88,7 +88,7 @@ This project is proud to be part of **DSC Winter of Code (DSCWoC)**.
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/rhythm-sharma-b72625323
 - GitHub: https://github.com/codeby-rhythm-sharma
-- Email: rhythmm.sharma10@gmai.com 
+- Email: rhythmm.sharma10@gmail.com 
 
 > *“Build small, secure systems. Learn deeply. Contribute openly.”*
 ![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue)
