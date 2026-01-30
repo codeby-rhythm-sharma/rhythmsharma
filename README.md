@@ -45,6 +45,11 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 - Focus on beginner-friendly issues, documentation, and mentorship-ready repositories  
 - Actively improving project structure, README clarity, and contribution workflows  
 ## 🌱 DSCWoC Contributors
+-Contributor for **DSC Winter of Code (DSCWoC)**.
+-resolving assigned issuesand collaborating with maintainers 
+<a href="https://github.com/codeby-rhythm-sharma/REPO_NAME/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeby-rhythm-sharma/REPO_NAME" />
+</a>
 
 This project is proud to be part of **DSC Winter of Code (DSCWoC)**.
 <a href="https://github.com/codeby-rhythm-sharma/REPO_NAME/graphs/contributors">
