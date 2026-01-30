@@ -44,8 +44,13 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 - Maintainer for **Android Club Winter of Code (ACWOC)** projects  
 - Focus on beginner-friendly issues, documentation, and mentorship-ready repositories  
 - Actively improving project structure, README clarity, and contribution workflows  
+## 🌱 DSCWoC Contributors
 
----
+This project is proud to be part of **DSC Winter of Code (DSCWoC)**.
+<a href="https://github.com/codeby-rhythm-sharma/REPO_NAME/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeby-rhythm-sharma/REPO_NAME" />
+</a>
+
 ## 📊 GitHub Stats
 
 ![Rhythm's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeby-rhythm-sharma&show_icons=true&theme=default)
