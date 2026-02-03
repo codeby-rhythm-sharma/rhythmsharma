@@ -7,7 +7,7 @@ I build **beginner-friendly cybersecurity tools**, work with **Python-based dete
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
 **Languages**  
 - Python  
@@ -18,7 +18,8 @@ I build **beginner-friendly cybersecurity tools**, work with **Python-based dete
 - SOC log analysis  
 - Basic threat modeling  
 - Error detection codes (CRC, Hamming)
-
+- Linux
+  
 **Tools & Platforms**  
 - Git & GitHub  
 - VS Code  
@@ -39,7 +40,7 @@ Python utilities for phishing URL detection and email spam analysis using heuris
 
 ---
 
-## 🌱 Open Source Involvement
+## 🏆Open Source Involvement
 
 - Maintainer for **Android Club Winter of Code (ACWOC)** projects  
 - Focus on beginner-friendly issues, documentation, and mentorship-ready repositories  
