@@ -7,7 +7,7 @@ I build **beginner-friendly cybersecurity tools**, work with **Python-based dete
 
 ---
 
-## 🚀 Tech Stack
+## 🚀Tech Stack
 
 **Languages**  
 - Python  
